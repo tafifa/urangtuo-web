@@ -17,7 +17,7 @@
     <x-navbar />
 
     {{-- Main Content --}}
-    <main>
+    <main class="font-metropolis">
         @yield('content')
     </main>
 

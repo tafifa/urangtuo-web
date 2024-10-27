@@ -36,11 +36,11 @@
         <div class="container">
             <!-- Tagline Section -->
             <div class="text-center container mx-auto px-16 p-4 py-8">
-                <p class="text-6xl font-metropolis font-bold text-primary-dark">Dengan pendekatan holistik, kami memastikan
+                <p class="text-6xl font-bold text-primary-dark">Dengan pendekatan holistik, kami memastikan
                 </p>
-                <p class="mt-2 text-6xl font-metropolis font-bold text-primary-dark">setiap Orang Tua merasa nyaman dan
+                <p class="mt-2 text-6xl font-bold text-primary-dark">setiap Orang Tua merasa nyaman dan
                     diperhatikan</p>
-                <p class="mt-4 text-3xl font-metropolis text-primary-dark">Jadikan Usia Lebih Bermakna, Temukan Beragam
+                <p class="mt-4 text-3xl text-primary-dark">Jadikan Usia Lebih Bermakna, Temukan Beragam
                     Layanan Perawatan Sesuai Kebutuhan</p>
             </div>
 
@@ -56,22 +56,22 @@
                     <!-- Right column for cards -->
                     <div class="grid grid-cols-1 sm:grid-cols-1 gap-6">
                         <div class="text-left container mx-auto px-16 p-4 py-8">
-                            <p class="text-lg font-metropolis font-bold text-tertiary-dark">Rekomendasi Layanan Perawatan
+                            <p class="text-lg font-bold text-tertiary-dark">Rekomendasi Layanan Perawatan
                                 Komprehensif</p>
-                            <p class="mt-2 text-lg font-metropolis font-bold text-primary-dark">Bekerjasama dengan 100+
+                            <p class="mt-2 text-lg font-bold text-primary-dark">Bekerjasama dengan 100+
                                 tenaga ahli terbaik dibidangnya, dengan jam terbang tinggi.</p>
                         </div>
                         <div class="text-left container mx-auto px-16 p-4 py-8">
-                            <p class="text-lg font-metropolis font-bold text-tertiary-dark">Sesuaikan Layanan Perawatan
+                            <p class="text-lg font-bold text-tertiary-dark">Sesuaikan Layanan Perawatan
                                 dengan Kebutuhanmu</p>
-                            <p class="mt-2 text-lg font-metropolis font-bold text-primary-dark">Pilihan jenis perawatan
+                            <p class="mt-2 text-lg font-bold text-primary-dark">Pilihan jenis perawatan
                                 terbaik, dengan rekomendasi tempat terbaik, dengan rekomendasi tempat terbaik untuk layanan
                                 home care</p>
                         </div>
                         <div class="text-left container mx-auto px-16 p-4 py-8">
-                            <p class="text-lg font-metropolis font-bold text-tertiary-dark">Bekerjasam dengan lebih dari 30
+                            <p class="text-lg font-bold text-tertiary-dark">Bekerjasam dengan lebih dari 30
                                 Mitra Rumah Sakit</p>
-                            <p class="mt-2 text-lg font-metropolis font-bold text-primary-dark">Informasi lokasi yang akurat
+                            <p class="mt-2 text-lg font-bold text-primary-dark">Informasi lokasi yang akurat
                                 dan penawaran layanan up-to date dari mitra rumah sakit terbaik</p>
                         </div>
                     </div>
@@ -114,13 +114,13 @@
 
             <!-- Tagline Section -->
             <div class="text-center container mx-auto px-16 p-4 py-8">
-                <p class="text-6xl font-metropolis font-bold text-primary">Expert Care, Trusted Partners. Quality You Can
+                <p class="text-6xl font-bold text-primary">Expert Care, Trusted Partners. Quality You Can
                 </p>
-                <p class="mt-2 text-6xl font-metropolis font-bold text-primary">Count On. <span
+                <p class="mt-2 text-6xl font-bold text-primary">Count On. <span
                         class="text-tertiary">Schedule a Consultation Today</span> </p>
             </div>
 
-            <div class="font-metropolis text-center container mx-auto px-4 py-8 max-w-xs">
+            <div class="text-center container mx-auto px-4 py-8 max-w-xs">
                 <a href="#"
                     class="block w-full px-6 py-3 bg-tertiary text-white text-md font-semibold text-center rounded-lg shadow-lg hover:bg-tertiary-dark hover:shadow-xl transform hover:scale-105 transition duration-300 ease-in-out">
                     Booking Layanan →

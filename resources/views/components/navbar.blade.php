@@ -46,7 +46,7 @@
 
         <!-- Buttons and Profile Icon -->
         <div class="hidden lg:flex items-center space-x-4">
-            <a href="/daftar"
+            <a href="/register"
                 class="bg-primary text-neutral-light px-4 py-2 rounded-lg hover:bg-primary-dark transition font-medium">Daftar</a>
             <a href="/masuk"
                 class="border border-primary text-primary px-4 py-2 rounded-lg hover:bg-primary hover:text-white transition font-medium">Masuk</a>
@@ -60,7 +60,7 @@
             <li><a href="/perawatan" class="block text-gray-700 hover:text-primary transition">Perawatan</a></li>
             <li><a href="/pemberdayaan" class="block text-gray-700 hover:text-primary transition">Pemberdayaan</a></li>
             <li><a href="/komunitas" class="block text-gray-700 hover:text-primary transition">Komunitas</a></li>
-            <li><a href="/daftar" class="block text-primary hover:text-primary-dark transition">Daftar</a></li>
+            <li><a href="/register" class="block text-primary hover:text-primary-dark transition">Daftar</a></li>
             <li><a href="/masuk" class="block text-primary hover:text-primary-dark transition">Masuk</a></li>
         </ul>
     </div>

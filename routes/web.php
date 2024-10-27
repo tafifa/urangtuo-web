@@ -12,3 +12,5 @@ Route::view('/pemberdayaan', 'pages/pemberdayaan')->name('pemberdayaan');
 Route::view('/komunitas', 'pages/komunitas')->name('komunitas');
 Route::view('/griya-lansia', 'pages/griya-lansia')->name('griya-lansia');
 Route::view('/profile', 'pages/profile')->name('profile');
+Route::view('/masuk', 'pages/masuk')->name('masuk');
+Route::view('/register', 'pages/register')->name('register');

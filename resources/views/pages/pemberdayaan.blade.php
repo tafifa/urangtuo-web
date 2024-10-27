@@ -47,7 +47,7 @@
                 </div>
             </div>
 
-            <div class="font-metropolis text-center container mx-auto px-4 py-8 max-w-xs">
+            <div class="text-center container mx-auto px-4 py-8 max-w-xs">
                 <a href="#"
                     class="block w-full px-6 py-3 bg-info text-white text-md font-semibold text-center rounded-lg shadow-lg hover:bg-info-dark hover:shadow-xl transform hover:scale-105 transition duration-300 ease-in-out">
                     Ikuti Program →
@@ -60,9 +60,9 @@
                     <!-- Left column for image -->
                     <div class="grid grid-cols-1 sm:grid-cols-1 gap-6">
                         <div class="text-right container mx-auto px-16 p-4 py-8">
-                            <p class="text-4xl font-metropolis font-bold text-primary">Mari Dampingi Lansia Untuk Tetap
+                            <p class="text-4xl font-bold text-primary">Mari Dampingi Lansia Untuk Tetap
                                 Berdaya dan Berkarya dengan Potensinya</p>
-                            <p class="mt-2 text-xl font-metropolis font-bold text-primary">Dengan Pendekatan Personal,
+                            <p class="mt-2 text-xl font-bold text-primary">Dengan Pendekatan Personal,
                                 Mendampingi Lansia Mencapai Potensi Maksimal</p>
                         </div>
                     </div>
@@ -112,13 +112,13 @@
 
             <!-- Tagline Section -->
             <div class="text-center container mx-auto px-16 p-4 py-8">
-                <p class="text-5xl font-metropolis font-bold text-primary"> <span class="text-tertiary">Gali Potensi Lebih
+                <p class="text-5xl font-bold text-primary"> <span class="text-tertiary">Gali Potensi Lebih
                         Mandiri</span> Lewat Program yang dirancang oleh tim Urang Tuo</p>
-                <p class="mt-2 text-2xl font-metropolis font-bold text-primary">Bergabung dengan 1000+ Lansia untuk mulai
+                <p class="mt-2 text-2xl font-bold text-primary">Bergabung dengan 1000+ Lansia untuk mulai
                     mengenal kembali potensi diri</p>
             </div>
 
-            <div class="font-metropolis text-center container mx-auto px-4 py-8 max-w-xs">
+            <div class="text-center container mx-auto px-4 py-8 max-w-xs">
                 <a href="#"
                     class="block w-full px-6 py-3 bg-tertiary text-white text-md font-semibold text-center rounded-lg shadow-lg hover:bg-tertiary-dark hover:shadow-xl transform hover:scale-105 transition duration-300 ease-in-out">
                     Program Tersedia →

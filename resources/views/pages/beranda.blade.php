@@ -121,9 +121,9 @@
 
             <!-- Tagline Section -->
             <div class="text-center container mx-auto px-16 p-4 py-8">
-                <p class="text-6xl font-metropolis font-bold text-primary-dark">Lansia Berdaya</p>
-                <p class="mt-2 text-6xl font-metropolis font-bold text-primary-dark">Wujudkan Komunitas Berkelanjutan</p>
-                <p class="mt-4 text-3xl font-metropolis text-primary-dark">Jadikan usia lebih bermakna. Temukan Komunitas
+                <p class="text-6xl font-bold text-primary-dark">Lansia Berdaya</p>
+                <p class="mt-2 text-6xl font-bold text-primary-dark">Wujudkan Komunitas Berkelanjutan</p>
+                <p class="mt-4 text-3xl text-primary-dark">Jadikan usia lebih bermakna. Temukan Komunitas
                     untuk Berdaya dan Sejahtera Bersama</p>
             </div>
 
@@ -144,7 +144,7 @@
                                     <div class="bg-white p-6 rounded-xl shadow-md flex flex-col items-center">
                                         <img src="{{ asset($service['icon']) }}" alt="{{ $service['name'] }}"
                                             class="w-32 h-32 mb-4 object-contain">
-                                        <p class="text-gray-600 font-metropolis my-4 mt-8 flex-grow text-justify">
+                                        <p class="text-gray-600 my-4 mt-8 flex-grow text-justify">
                                             {{ $service['description'] }}
                                         </p>
                                     </div>
